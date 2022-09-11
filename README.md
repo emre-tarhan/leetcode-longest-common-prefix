@@ -1,4 +1,4 @@
-# leetcode-longest-common-prefix
+# Leetcode Longest Common Prefix
 Leetcode.com Longest Common Prefix Solution (PHP)  
 `[Runtime 8ms (faster than 90%), 19MB memory usage (less than 80%) ]`  
 <https://leetcode.com/problems/longest-common-prefix/>  
